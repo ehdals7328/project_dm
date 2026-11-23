@@ -1,0 +1,18 @@
+# 가상환경
+project_env/
+
+# api 주소와 DB 정보
+.env
+
+# Cloud DB 접속 인증서 폴더
+#wallet
+
+# 파이썬 캐시
+__pycache__/
+*.py[cod]
+.vscode/
+
+# 가중치와 테스트 이미지, 영상
+*.pt
+*.mp4
+*.png
